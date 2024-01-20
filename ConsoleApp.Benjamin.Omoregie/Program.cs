@@ -8,7 +8,7 @@ using System.Windows.Forms;
  * Program: Business Information Technology
  * Course: ADEV-2008 Programming 2
  * Created: 2024-01-19
- * Updated: 2019-03-03
+ * Updated: 2019-01-03
  */
 
 namespace Business.Benjamin.Omoregie
@@ -25,7 +25,7 @@ namespace Business.Benjamin.Omoregie
 
             // 2. Define the variable above to a new Quote instance with a sale price
             //    and tax rate of your choosing.
-             quote = new Quote(5000, 0.05m);
+             quote = new Quote(6000, 0.05m);
 
             // 3. Print the state of the Quote object using accessor methods. 
             //    Format of the output is: 
