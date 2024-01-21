@@ -1,9 +1,9 @@
-﻿
+﻿    
 
 namespace Business.Benjamin.Omoregie
 {
     /// <summary>
-    /// public class for quote with saleprice and taxrate properties.
+    /// public class for quote with saleprice and taxrate properties.       
     /// 
    /// </summary>
     public class Quote

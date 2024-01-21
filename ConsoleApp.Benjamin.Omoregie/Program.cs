@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Business.Benjamin.Omoregie;
 /*
  * Name: Benjamin Omoregie
  * Program: Business Information Technology
@@ -11,7 +12,7 @@ using System.Windows.Forms;
  * Updated: 2019-01-03
  */
 
-namespace Business.Benjamin.Omoregie
+namespace ConsoleApp.Benjamin.Omoregie
 {
     static class Program
     {
